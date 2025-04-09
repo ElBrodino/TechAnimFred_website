@@ -1,2 +1,6 @@
-Assets/*.webp
-Assets/*.jpg
+# Ignore everything inside Resources/ directory
+/Assets/**
+# Except for subdirectories(won't be committed anyway if there is no committed file inside)
+!/Assets/**/
+# And except for *.foo files
+!*.png
