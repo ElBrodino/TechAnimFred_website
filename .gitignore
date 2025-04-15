@@ -4,3 +4,12 @@
 !/Assets/**/
 # And except for *.foo files
 !*.png
+Assets/Logos/Lang/Java-Logo.png
+Assets/Logos/Lang/C++_Logo.png
+Assets/Logos/Lang/python-logo.png
+Assets/Logos/Programs/Alienbrain_logo.png
+Assets/Logos/Programs/Clion.png
+Assets/Logos/Programs/images.png
+Assets/Logos/Programs/PyCharm_logo.png
+Assets/Logos/Programs/unity_logo.png
+Assets/Logos/Programs/unreal_logo.png
