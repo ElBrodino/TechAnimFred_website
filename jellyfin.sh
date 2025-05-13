@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-source <(curl -s https://www.techanimfred.org/build.func)
+source <(curl -s https://github.com/ElBrodino/TechAnimFred_website/blob/main/build.func)
 # Copyright (c) 2021-2024 tteck
 # Author: tteck (tteckster)
 # License: MIT
